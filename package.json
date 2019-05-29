@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/max2201/test-back#readme",
   "dependencies": {
-    "cors": "^2.8.5",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
