@@ -3,7 +3,7 @@ const { sequelize, Sequelize } = require('.');
 const User = sequelize.define('user', {
     username: {
         type: Sequelize.STRING,
-        allowNull: false,
+        allowNull: true,
     },
     email: {
         type: Sequelize.STRING,
